@@ -10,7 +10,7 @@ theme:
   custom_dir: overrides
   features:
     - navigation.sections
-    - navigation.expand
+#    - navigation.expand
     - navigation.footer
     - navigation.instant
     - navigation.instant.prefetch
