@@ -1,5 +1,9 @@
 # HWSF Quick Start – From Context to Practice
 
+!!! warning "DRAFT VERSION"
+    This document is a **working draft** of the *Human Work System Framework (HWSF)*.<br/>
+    Content, terminology, and structure are **subject to revision**.
+
 ## What HWSF is
 
 **Human Work System Framework (HWSF)** is a *theory-first lens* that describes the **preconditions, human needs, and stable functions** required for any collaborative work to exist and succeed.
