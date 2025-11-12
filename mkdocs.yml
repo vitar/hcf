@@ -10,7 +10,7 @@ theme:
   custom_dir: overrides
   features:
     - navigation.sections
-#    - navigation.expand
+    - navigation.expand
     - navigation.footer
     - navigation.instant
     - navigation.instant.prefetch
@@ -49,6 +49,9 @@ nav:
     - 100-theory/130-level-rule.md
     - 100-theory/140-diagnostic-workflow.md
   - REFERENCE:
+    - 300-reference/320-glossary.md
+    - 300-reference/330-sources-and-frameworks.md
+    - 300-reference/360-version-and-licensing.md
     - author.md
 
 markdown_extensions:
