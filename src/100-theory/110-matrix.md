@@ -1,9 +1,5 @@
 # The Human Cooperation System Matrix
 
-!!! warning "DRAFT VERSION"
-    This document is a **working draft** of the *Human Cooperation System (HCS)*.<br/>
-    Content, terminology, and structure are **subject to revision**.
-
 **Cooperation exists because of interdependence** — when one person alone can’t or doesn’t want to do everything, *work becomes a shared system of value exchange*.
 
 If one person could do everything alone, work would be **pure autonomy**.
@@ -13,12 +9,14 @@ But the moment **two or more people are involved**, *working together becomes a 
 ## Why the Matrix Exists
 
 The **HCS Matrix** captures the *minimum viable structure of cooperation*.<br/>
-It defines the smallest set of interacting forces required for human collaboration to emerge and remain sustainable.
+It defines the minimal set of interacting forces required for cooperation to emerge, stabilize, and evolve.
 
 It is not a framework or process map — it’s a **diagnostic lens**.<br/>
 It helps you identify *which essential conditions and needs are present, missing, or misaligned* in any collaborative system — from teams and partnerships to entire organizations.
 
 When mapped across real situations, the Matrix shows *why cooperation either flourishes or fractures*, long before outcomes or metrics reveal the symptoms.
+
+Each intersection represents a function of cooperation, later used by the Diagnostic Workflow to connect theory to practical improvement.
 
 ## Dimensions of the Matrix
 
@@ -53,7 +51,7 @@ This section defines and explains each element of the Matrix that outlines the f
 4. **Trust** – A belief in the reliability, competence, and good intent of others. Trust reduces the cost of coordination and enables delegation, openness, and cooperation.
 5. **Change/Uncertainty** – The inevitable presence of external or internal shifts that affect work. Handling change requires resilience, learning, and flexibility in both individuals and systems.
 
-### Core Human Needs for Cooperative Work (Horizontal Axis)
+### Core Human Needs for Cooperation (Horizontal Axis)
 
 1. **Shared Understanding** – A mutual grasp of language, goals, constraints, and contexts among collaborators. It ensures that all parties interpret information similarly.
 2. **Mutual Commitment** – A shared willingness to contribute to common goals. It implies dedication, accountability, and follow-through from all parties involved.

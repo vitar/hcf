@@ -1,13 +1,9 @@
-# Diagnostic Workflow (Observation → Matrix → Level → Function → Practice)
-
-!!! warning "DRAFT VERSION"
-    This document is a **working draft** of the *Human Cooperation System (HCS)*.<br/>
-    Content, terminology, and structure are **subject to revision**.
+# Diagnostic Workflow — Observation → Matrix → Level → Function → Practice
 
 ## Why the Diagnostic Workflow Exists
 
 The **HCS Diagnostic Workflow** turns theory into action.<br/>
-It’s a repeatable process for tracing **observable issues** in cooperation back to their **systemic root causes** — before deciding how to intervene.
+It provides a structured loop for tracing **observable issues** in cooperation back to their **systemic root causes** — before deciding how to intervene.
 
 Most improvement efforts fail because they start with *practice changes* (Level 4) rather than diagnosing *which level of cooperation is weak*.<br/>
 This workflow keeps analysis grounded and ensures each corrective action strengthens the right layer of the system.
@@ -123,6 +119,8 @@ This workflow transforms **improvement discussions** from reactive fixes to **sy
 It replaces “who made the mistake?” with “which part of the system is under strain?” — building psychological safety while improving results.
 
 > The HCS Diagnostic Workflow is the bridge between **theory and daily practice** — a loop that keeps cooperation systems alive, adaptive, and learnable.
+
+Used consistently, this workflow becomes the **practical heartbeat of HCS** — transforming abstract theory into measurable cooperative improvement.
 
 ### Summary Table
 

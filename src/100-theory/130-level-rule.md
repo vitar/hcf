@@ -1,15 +1,10 @@
 # The Level Rule
 
-!!! warning "DRAFT VERSION"
-    This document is a **working draft** of the *Human Cooperation System (HCS)*.<br/>
-    Content, terminology, and structure are **subject to revision**.
-
----
-
 ## Why the Level Rule Exists
 
 The **Level Rule** is the single most practical principle of the Human Cooperation System.<br/>
-It prevents teams and leaders from treating symptoms at the *wrong level* — such as changing practices when the underlying conditions or needs are unstable.
+It prevents teams and leaders from treating symptoms at the *wrong level* — such as changing practices when the underlying conditions or needs are unstable.<br/>
+It operationalizes the **Principle of Lowest-Level Fix** described in the HCS core principles.
 
 In cooperation systems, **every level depends on the stability of the one below it**.<br/>
 Just as a house can’t rest on a weak foundation, teams can’t sustain new practices if trust, clarity, or purpose are missing.<br/>
@@ -35,6 +30,8 @@ When you observe friction, confusion, or performance drops, follow this diagnost
 
 5. **Reflect and evolve.**<br/>
    At maturity (Level 5), teams begin to *self-diagnose and adapt* — applying the Level Rule themselves.
+
+This recursive application of the Level Rule transforms teams into self-correcting systems — the hallmark of Level 5 maturity.
 
 ## The Five Levels at a Glance
 
@@ -96,4 +93,5 @@ The **Level Rule** ensures interventions follow the natural order of cooperation
 
 > Never try to optimize the system at a higher level than it can currently sustain.
 
-Mastering this principle makes every improvement effort more efficient, humane, and lasting.
+Mastering this principle makes every improvement effort more efficient, humane, and lasting.<br/>
+The Level Rule connects every HCS diagnostic step — from the Matrix through the Workflow — into one coherent method.

@@ -1,9 +1,5 @@
 # The Human Cooperation System Pyramid
 
-!!! warning "DRAFT VERSION"
-    This document is a **working draft** of the *Human Cooperation System (HCS)*.<br/>
-    Content, terminology, and structure are **subject to revision**.
-
 ## Why the Pyramid Exists
 
 The **HCS Pyramid** visualizes how cooperation evolves through **five systemic levels** — from the most fundamental conditions of existence to reflective innovation at the top.<br/>
@@ -102,6 +98,8 @@ Includes:
 - Matching practices consciously to functions (avoiding “cargo cult” behavior).
 - Teaching and sharing system-level understanding.
 
+Examples of Level 5 behavior include designing custom meta-frameworks such as **3SF**, where theory is consciously transformed into operational systems.
+
 *Maslow analogy*: Self-transcendence — going beyond individual optimization to improve the system for others.
 
 ## Pyramid View – Start & Top
@@ -109,6 +107,9 @@ Includes:
 !!! tip "Always climb levels in order"
     Don’t patch Level 4 **practices** when Level 1–2 **preconditions or human needs** are weak.<br/>
     Fix lower levels first — then revisit practices.
+
+Each level introduces a qualitatively new kind of stability.<br/>
+Progression is not linear but recursive — feedback from higher levels refines lower ones, creating a self-correcting system.
 
 - **It starts** at Level 1 the moment two or more people have a reason to interact for mutual value.
 - **It tops** at Level 5 when teams become self-evolving systems — capable of diagnosing, designing, and improving their own way of working without external imposition.
@@ -130,4 +131,4 @@ When diagnosing cooperation:
 - Weakness in **Level 4** means inappropriate or outdated practices are being applied.
 - Weakness in **Level 5** shows that the system can’t yet learn or evolve on its own.
 
-The Pyramid helps shift conversations from *“What framework should we use?”* to *“Which layer of cooperation needs attention first?”*
+The Pyramid reframes improvement discussions from *‘Which framework should we adopt?’* to *‘Which layer of cooperation must be stabilized first?’* — the essence of the Level Rule.
