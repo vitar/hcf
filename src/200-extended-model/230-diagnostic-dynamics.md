@@ -9,7 +9,8 @@ This chapter provides a diagnostic lens for identifying how extended conditions 
 The Core Model defines what cooperation requires.<br/>
 Extended conditions and needs describe what cooperation feels like.
 
-Political and psychological vectors explain **why cooperation becomes difficult**, even when structure is in place.
+Political and psychological vectors explain **why cooperation becomes difficult**, even when structure is in place.<br/>
+These vectors do not alter the Level Rule. They influence behavior, not system structure.
 
 ### Political Vector
 

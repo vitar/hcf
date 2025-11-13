@@ -16,8 +16,6 @@ The intent is to offer **direction**, not detailed instruction.
 **Extended** – Supports motivation, relational dynamics, psychological or political influences<br/>
 **Mixed** – Addresses both Core and Extended dynamics
 
----
-
 ## Motivation & Values Alignment
 
 **Moving Motivators**<br/>
@@ -145,6 +143,8 @@ HCS Mapping: Extended (Belonging); Mixed (Clarity)<br/>
 Category: Group Facilitation
 
 ## How to Use This Map
+
+These mappings describe *where practices are often helpful*, not required or recommended by HCS.
 
 - Begin with the Core Model or Extended Dynamics to identify the primary condition or need.
 - Select a practice that supports the function you are trying to explore or stabilize.

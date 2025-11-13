@@ -20,6 +20,8 @@ Needs before tools.**
 
 This ordering keeps interventions grounded, fair, and effective.
 
+The Extended Model may enrich diagnosis, but it must never override a Core-level intervention.
+
 ## Step 1 — Start With the Core Model
 
 Begin with the HCS matrix and pyramid:

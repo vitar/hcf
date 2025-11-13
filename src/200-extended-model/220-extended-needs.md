@@ -1,5 +1,6 @@
 # Extended Needs
 
+Core Needs (trust, purpose, commitment) define structural sufficiency; Extended Needs describe motivational depth.<br>
 Extended needs describe the deeper human and systemic requirements that influence how cooperation is experienced and sustained over time.<br/>
 They complement the Core Model by acknowledging that people bring motivation, emotion, identity, and expectations that shape the quality of cooperation beyond the minimal conditions of stability.
 
@@ -98,7 +99,7 @@ Needs related to appreciation, inclusion, and social identity.
 - Culture of appreciation
 - Inclusion mechanisms that ensure representation
 - Fair allocation of credit
-- shared rituals that build connection
+- Shared rituals that build connection
 
 **Individual Needs**
 

@@ -5,7 +5,10 @@ The **Core Model** explains the minimum set of conditions and needs that make co
 
 However, real cooperation is rarely shaped by structure alone.
 
-Teams operate within **human, psychological, and political realities** that sit outside the minimal model, yet strongly influence how cooperation is experienced day-to-day. These forces do not change the physics of HCS, but they do change its *behavior under pressure*. They create friction, distortion, hidden agendas, and emotional responses that no structural model can fully predict.
+Teams operate within **human, psychological, and political realities** that sit outside the minimal model, yet strongly influence how cooperation is experienced day-to-day.<br/>
+These forces do not change the physics of HCS, but they do change its *behavior under pressure*.<br/>
+They should be considered only after structural causes have been evaluated through the **Core Model**.<br/>
+They create friction, distortion, hidden agendas, and emotional responses that no structural model can fully predict.
 
 This section exists to make those forces visible.
 
@@ -65,6 +68,8 @@ Extended Dynamics = what cooperation must navigate.**
 
 5. **Use referenced practices intentionally, not as default solutions.**<br/>
    This section clarifies when tools like DiSC or SCARF help—and when they distract from systemic issues.
+
+For combining **Core** and **Extended** insights, see the [**Integration Guide**](250-integration-guide.md).
 
 ## Scope of This Section
 

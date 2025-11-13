@@ -35,8 +35,7 @@ Each source is categorized by its **theoretical contribution area** — systemic
 | **Shannon–Weaver Model of Communication** | Information transmission depends on reducing noise and distortion. | Forms basis for HCS’s *Communication Fidelity* function. |
 | **Double-Loop Learning (Argyris & Schön)** | True learning requires questioning underlying assumptions, not just correcting errors. | Informs *Reflective Practice* and *Level 5 Meta-Systems Thinking*. |
 | **Sensemaking (Weick)** | People construct meaning retrospectively to understand ambiguous situations. | Explains why *Shared Understanding* is a dynamic, co-created process. |
-| **Nonviolent Communication (Rosenberg)** | Empathic communication strengthens relationships and trust. | Reinforces the emotional intelligence aspect of *Trust* and *Feedback Loops*. |
-| **Nonviolent Communication (Marshall Rosenberg)** | Dialogue grounded in needs and empathy improves relational clarity and trust. | Supports Extended Relational Conditions and emotional safety. |
+| **Nonviolent Communication (Marshall Rosenberg)** | Needs-based, empathetic dialogue that improves relational clarity and trust. | Supports Core Trust (feedback clarity) and Extended Relational Conditions (emotional safety, conflict repair). |
 | **Radical Candor (Kim Scott)** | Honest, caring communication strengthens accountability and relationships. | Informs relational repair within Extended Dynamics. |
 
 ## Organizational Design and Governance

@@ -64,11 +64,14 @@ This glossary supports consistency across HCS Core Model, Pyramid, Matrix, and D
 
 | Term | Meaning |
 | :--- | :--- |
+| **Extended Conditions Types** | Contextual, relational, structural, developmental categories used to classify non-core influences. |
 | **Extended Conditions** | Contextual, relational, structural, and developmental factors that influence how cooperation is experienced. They do not alter the Core Model but explain variation in quality, tension, or stability. |
+| **Extended Needs Categories** | Purpose, trust/safety, growth, belonging/recognition, autonomy/coherence. |
 | **Extended Needs** | Human motivational and relational needs (purpose, recognition, belonging, growth, autonomy) that affect engagement and emotional experience within cooperation. Not required for the Core Model to function but critical for sustained, humane collaboration. |
 | **Collective Conditions / Needs** | System-level patterns, narratives, norms, or motivations that emerge from groups rather than individuals. They influence shared meaning, fairness, identity, and cohesion. |
 | **Individual Conditions / Needs** | A person’s lived experience within cooperation — clarity, predictability, psychological safety, recognition, growth, autonomy, and emotional security. |
 | **Distortion Vectors** | Forces that amplify or suppress conditions and needs, making cooperation difficult even when structure is intact. Represented as political or psychological influences. |
+| **Quadrant** | The four-way classification used in Extended Human Dynamics: Collective Condition, Individual Condition, Collective Need, Individual Need. Guides correct intervention level and prevents misdiagnosis. |
 
 ## Influence Fields
 

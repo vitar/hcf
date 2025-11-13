@@ -25,6 +25,7 @@ Individual conditions influence what is experienced.
 ## Types of Extended Conditions
 
 Extended conditions fall into four functional categories.<br/>
+These categories mirror real-world friction sources and do not represent new dimensions of the Core Model.<br/>
 Each category contains both collective and individual variants.
 
 ### 1. Contextual Conditions
