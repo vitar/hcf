@@ -38,11 +38,11 @@ Together, these dimensions form the **Systemic Basis of Work** — the foundatio
 
 ## Reading Path
 
-1. Begin with the **[Vision, Principles, and Beliefs](100-theory/100-vision-principles-beliefs.md)** to understand HCS intent and mindset.
-2. Explore the **[Matrix](100-theory/110-matrix.md)** — a five-by-five landscape of *conditions × needs*.
-3. Study the **[Pyramid](100-theory/120-pyramid.md)** to see how stability develops from *preconditions → meta-practices*.
-4. Apply **[The Level Rule](100-theory/130-level-rule.md)** to identify where interventions must start.
-5. Use the **[Diagnostic Workflow](100-theory/140-diagnostic-workflow.md)** to turn observations into action.
+1. Begin with the **[Vision, Principles, and Beliefs](100-core-model/100-vision-principles-beliefs.md)** to understand HCS intent and mindset.
+2. Explore the **[Matrix](100-core-model/110-matrix.md)** — a five-by-five landscape of *conditions × needs*.
+3. Study the **[Pyramid](100-core-model/120-pyramid.md)** to see how stability develops from *preconditions → meta-practices*.
+4. Apply **[The Level Rule](100-core-model/130-level-rule.md)** to identify where interventions must start.
+5. Use the **[Diagnostic Workflow](100-core-model/140-diagnostic-workflow.md)** to turn observations into action.
 
 *Why This Path:*<br/>
 Start with **Theory** to understand the *why* of cooperation, then apply the **Diagnostic Workflow** to learn *how to act* on it.
