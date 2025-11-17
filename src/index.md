@@ -1,106 +1,159 @@
 # Human Cooperation System (HCS) – From Context to Practice
 
-A diagnostic system for understanding how human cooperation sustains effective work.
+A multi-modal operating system for understanding, designing, and stabilizing human cooperation.
 
-> **30-Second Summary**<br/>
-> The **Human Cooperation System (HCS)** is a diagnostic lens that defines the **25 stable functions required for human cooperation to exist and adapt**.<br/>
-> It helps leaders and teams see where trust, clarity, or structure must be strengthened before changing practices or frameworks.
+> **30-Second Summary**  
+> The **Human Cooperation System (HCS)** defines the stable conditions and functions that make human cooperation possible.  
+> It reveals why alignment, trust, and flow break down — and provides a structure for restoring or improving them across different stages of work.
 
-## Introduction
+# Introduction
 
-The **Human Cooperation System (HCS)** explains how people manage to work together — not as isolated individuals, but as interdependent actors connected by shared goals, constraints, and meaning.<br/>
-It maps the *invisible architecture* that makes cooperation possible: the conditions, needs, and functions that hold any collaborative system together.
+Human cooperation is not powered by tools, talent, or methods alone.  
+It emerges from a deeper **system of shared meaning, aligned boundaries, trust, and coordinated decision-making**.
 
-When collaboration fails, it is rarely a skills problem — it usually breaks at the **system level**: misaligned expectations, unmet human needs, or missing functions that maintain trust and coherence.<br/>
-HCS helps reveal these root causes before they manifest as friction, disengagement, or delivery failure.
+The **Human Cooperation System (HCS)** maps this system.  
+It exposes the invisible architecture behind all collaborative work:  
+the **conditions**, **needs**, and **functions** that allow groups to make sense, act, and adapt together.
 
-## Who It’s For
+Cooperation problems rarely start with skills or velocity.  
+They start when the **system of cooperation** becomes unstable — when people interpret work differently, operate under mismatched expectations, or lack the structural safety to speak, align, or decide.
 
-HCS is built for those who lead, enable, or study cooperation:
+HCS helps teams **see and repair the system**, not just the symptoms.
 
-- **Project and Product Leads** seeking to understand why delivery struggles despite competent teams.
-- **Engineering and Design Managers** improving cross-functional flow, trust, and autonomy.
-- **Consultants and Coaches** diagnosing organizational misalignment or systemic friction.
-- **Researchers and Framework Designers** exploring universal patterns behind human collaboration.
+# Why HCS Exists
 
-If you’ve arrived here from the **3-in-3 SDLC Framework (3SF)**, HCS represents the **layer beneath practice** — the foundational *system* that governs why engagement, delivery, and value either flow or fail.
+There are two parallel paths organizations use to solve collaboration problems:
 
-## Purpose
+### **1. The Path of Encapsulation**  
+Reducing friction by narrowing collaboration, separating responsibilities, and limiting interdependence.  
+Great for clear, predictable work — but brittle in complexity.
 
-HCS serves as a **diagnostic and theoretical system** for understanding and improving cooperation across all forms of human work — from teams and organizations to partnerships and ecosystems.<br/>
-It does not prescribe methods; instead, it offers a *lens* to evaluate which functions must exist and interact coherently for cooperation to succeed.
+### **2. The Path of Integration**  
+Managing friction through shared meaning, aligned boundaries, and transparent decision-making.  
+Necessary whenever work is ambiguous, cross-functional, political, or fast-changing.
 
-- It describes the **preconditions** that enable cooperation.
-- It identifies the **human needs** that sustain motivation and trust.
-- It defines the **stable functions** that transform shared intent into collective outcomes.
+Most teams unconsciously choose Encapsulation even when Integration is required — and cooperation collapses.
 
-Together, these dimensions form the **Systemic Basis of Work** — the foundation upon which all frameworks, practices, and tools must rest.
+**HCS provides the architecture for choosing the right path, and the structure for governing both.**
 
-## Structure of the System
+# Who It’s For
 
-HCS is organized into two complementary layers:
+HCS is designed for anyone responsible for ensuring people can work together effectively:
 
-### **Core Model**
+- **Project & Product Leads** managing cross-functional flow and shared accountability.  
+- **Engineering, Design, and Research Managers** growing autonomy and reducing misalignment.  
+- **Consultants & Advisors** diagnosing systemic friction across teams or organizations.  
+- **Practitioners of 3SF** who want to understand the foundational system beneath the framework.
 
-The Core Model defines the **minimal systemic conditions, human needs, and functional primitives** required for cooperation to exist.<br/>
-It answers:<br/>
-**What must be true for people to work together at all?**
+If you are here from **3SF**, HCS is the **underlying system** that explains why engagement, delivery, and value succeed or fail.
 
-This layer includes:
+# Purpose of HCS
 
-- Foundations, principles, and beliefs
-- The 5×5 Matrix of conditions × needs
-- The Pyramid (Preconditions → Meta-Practices)
-- The Level Rule
-- The Diagnostic Workflow
+The Human Cooperation System is a **systemic model and decision structure** for:
 
-The Core Model is universal, stable, and framework-independent.
+- Understanding what cooperation *requires*  
+- Diagnosing where cooperation *breaks*  
+- Governing how cooperation *evolves*  
+- Choosing the right *mode* of intervention  
+- Connecting human needs, organizational intent, and work structures
 
-### **Extended Human Dynamics**
+HCS does **not** prescribe practices.  
+It provides the **systemic logic** beneath every practice, framework, and governance choice.
 
-Beyond the structural minimum, cooperation is shaped by **contextual, psychological, and political forces** that influence how work is experienced.
+It defines:
 
-This layer answers:<br/>
-**Why is cooperation difficult in real organizations?**
+- The **preconditions** needed for cooperation  
+- The **needs** that sustain trust and engagement  
+- The **functions** that transform shared intent into coordinated action  
+- The **dynamics** that amplify or distort cooperation  
+- The **modes** teams must use depending on their stage of work
 
-It describes:
+Together, these form the **Systemic Basis of Work** — a way to understand and shape cooperation itself.
 
-- Collective and individual variations in conditions and needs
-- Psychological and political vectors that distort cooperation
-- Relational, cultural, and developmental dynamics
-- Reference practices used to explore these dynamics
+# Structure of HCS
 
-The Extended layer does **not** modify the Core Model.<br/>
-It provides a vocabulary for diagnosing human complexity without turning HCS into a behavior-change framework.
+HCS is organized into three architectural layers:
 
-## Reading Path
+## **Core Model — The Physics of Cooperation**
 
-### Start with the **Core Model**
+The Core Model defines the stable, universal architecture of cooperation.
 
-1. Begin with the **[Vision, Principles, and Beliefs](100-core-model/100-vision-principles-beliefs.md)** to understand HCS intent and mindset.
-2. Explore the **[Matrix](100-core-model/110-matrix.md)** — a five-by-five landscape of *conditions × needs*.
-3. Study the **[Pyramid](100-core-model/120-pyramid.md)** to see how stability develops from *preconditions → meta-practices*.
-4. Apply **[The Level Rule](100-core-model/130-level-rule.md)** to identify where interventions must start.
-5. Use the **Diagnostic Workflow** to turn observations into action.
+It answers:
 
-### Continue with **Extended Human Dynamics** (optional, recommended)
+**“What must be true for people to work together at all?”**
 
-If the Core Model is clear but cooperation still feels tense, political, or emotionally difficult, proceed to:
+This includes:
 
-- **[Extended Conditions](200-extended-model/210-extended-conditions.md)**
-- **[Extended Needs](200-extended-model/220-extended-needs.md)**
-- **Diagnostic Dynamics**
-- **Practices Map**
-- **Integration Guide**
+- **Vision, Principles, Beliefs** — the intent and stance of HCS  
+- **The Conditions Matrix** — the structural landscape of cooperation  
+- **The Pyramid** — how stability develops from preconditions to meta-practices  
+- **The Level Rule** — why interventions must follow a systemic sequence  
 
-This layer helps diagnose complexity without conflating human issues with structural ones.
+This layer is **framework-independent** and applies to all forms of human work.
 
-## Positioning
+## Extended Human Dynamics — Real-World Complexity**
 
-Think of **HCS** as the *operating system* beneath all collaborative frameworks and management methodologies.<br/>
-Agile, Lean, and other methods work only when the **systemic conditions of cooperation** are stable.<br/>
-By diagnosing and strengthening those foundations, leaders and teams can achieve higher trust, clearer intent, and sustainable performance.
+Even when the structure is correct, cooperation is shaped by deeper forces:
 
-> **In essence:**<br/>
-> **HCS** defines the *physics of cooperation* — how alignment, trust, and feedback sustain work —<br/>
-> and provides the foundation for applied frameworks such as **3SF**, where theory meets practice.
+- Psychological safety  
+- Power and authority  
+- Identity, belonging, and interpersonal patterns  
+- Misaligned incentives and political vectors  
+- Cultural and relational history
+
+This layer answers:
+
+**“Why is cooperation difficult in real organizations?”**
+
+Extended Dynamics does not add new requirements.  
+It provides the **human context** needed to understand why cooperation deviates from the Core Model.
+
+## **System Modes — How to Use HCS Across the Lifecycle of Work**
+
+Cooperation is not static.  
+Different stages of work require different systemic activities.  
+HCS expresses these as **modes**:
+
+1. **Setup Mode** — establishing preconditions and governance before work begins  
+2. **Stabilization Mode** — fixing mismatches, breakdowns, and early friction  
+3. **Growth Mode** — increasing autonomy, trust, and adaptive capacity  
+4. **Conflict Mode** — resolving human, political, or relational breakdowns  
+5. **Reset Mode** — re-establishing cooperation after radical context change  
+
+Each mode applies the Core Model differently depending on what the system needs  
+— **design**, **repair**, **evolution**, **restoration**, or **renewal**.
+
+In HCS v2.0, **Stabilization Mode** contains the full diagnostic workflow.  
+Other modes introduce conceptual foundations and will expand in future versions.
+
+# Reading Path
+
+### **Start with the Core Model**
+1. **[Vision, Principles, and Beliefs](100-core-model/100-vision-principles-beliefs.md)**  
+2. **[The Matrix](100-core-model/110-matrix.md)**  
+3. **[The Pyramid](100-core-model/120-pyramid.md)**  
+4. **[The Level Rule](100-core-model/130-level-rule.md)**  
+
+### **Continue with Extended Human Dynamics**  
+Explore how human, political, and psychological forces distort or amplify cooperation.
+
+### **Move to System Modes**  
+Learn how to apply the system depending on work stage:
+
+- **Setup** (design)  
+- **Stabilization** (diagnosis and repair)  
+- **Growth** (optimization)  
+- **Conflict** (resolution)  
+- **Reset** (renewal)
+
+# Positioning
+
+Think of HCS as a **cooperation operating system**:
+
+- Methods like Agile, Lean, design thinking, DevOps, or 3SF succeed only when the **underlying system of cooperation** is stable.  
+- HCS reveals that system and provides a structure for improving it.  
+- Where 3SF operationalizes cooperation inside delivery flows, HCS explains *why* those operations function — or fail.
+
+> **In essence:**  
+> HCS describes the *physics of cooperation* —  
+> the conditions and functions that allow human work to remain aligned, trusted, and adaptive.
