@@ -48,29 +48,30 @@ nav:
     - 100-core-model/110-matrix.md
     - 100-core-model/120-pyramid.md
     - 100-core-model/130-level-rule.md
-    - 100-core-model/140-diagnostic-workflow.md
   - EXTENDED HUMAN DYNAMICS:
     - 200-extended-model/200-intro-purpose.md
     - 200-extended-model/210-extended-conditions.md
     - 200-extended-model/220-extended-needs.md
-    - 200-extended-model/230-diagnostic-dynamics.md
-    - 200-extended-model/240-practices-map.md
-    - 200-extended-model/250-integration-guide.md
   - SYSTEM MODES:
+    - 300-system-modes/300-intro-purpose.md
+    - 300-system-modes/350-integration-guide.md
     - SETUP MODE:
-      - 300-setup-mode/300-intro-purpose.md
+      - 400-setup-mode/400-intro-purpose.md
     - STABILIZATION MODE:
-      - 400-stabilization-mode/400-intro-purpose.md
+      - 500-stabilization-mode/500-intro-purpose.md
+      - 500-stabilization-mode/540-diagnostic-workflow.md
+      - 500-stabilization-mode/550-diagnostic-dynamics.md
     - GROWTH MODE:
-      - 500-growth-mode/500-intro-purpose.md
+      - 600-growth-mode/600-intro-purpose.md
     - CONFLICT MODE:
-      - 600-conflict-mode/600-intro-purpose.md
+      - 700-conflict-mode/700-intro-purpose.md
     - RESET MODE:
-      - 700-reset-mode/700-intro-purpose.md
+      - 800-reset-mode/800-intro-purpose.md
   - REFERENCE:
-    - 800-reference/820-glossary.md
-    - 800-reference/830-sources-and-frameworks.md
-    - 800-reference/860-version-and-licensing.md
+    - 900-reference/920-glossary.md
+    - 900-reference/930-sources-and-frameworks.md
+    - 900-reference/940-practices-map.md
+    - 900-reference/990-version-and-licensing.md
     - author.md
 
 markdown_extensions:
