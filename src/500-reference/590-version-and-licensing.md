@@ -9,7 +9,7 @@ It ensures transparency, traceability, and consistency across all derivative wor
 | :--- | :--- |
 | **System Name** | Human Cooperation System (HCS) |
 | **Version** | **V2.0** |
-| **Status** | Draft — extends V1.0’s theoretical core with System Modes and Diagnostics; V1.0 remains the foundational reference. |
+| **Status** | Stable — consolidated system release (Core Model + Dynamics + Modes + Diagnostics). |
 | **Release Date** | November 2025 |
 | **Maintained by** | [3in3.dev](https://3in3.dev) |
 | **Repository** | [GitHub – vitar/hcs](https://github.com/vitar/hcs) |
