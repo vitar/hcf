@@ -125,25 +125,66 @@ Each mode applies the Core Model differently depending on what the system needs
 
 ## Reading Path
 
-### Start with the Core Model
+HCS can be approached from two directions depending on your goals:  
+**(1) understanding the system**, or **(2) using the system to diagnose and guide real cooperation.**
 
+### Reading Path for Theorists / Learners
+
+If your goal is to understand how HCS works as a system—its concepts, structure, and reasoning—follow this order:
+
+#### 1. Start with the Core Model
 1. **[Vision, Principles, and Beliefs](100-core-model/100-vision-principles-beliefs.md)**  
 2. **[The Matrix](100-core-model/110-matrix.md)**  
 3. **[The Pyramid](100-core-model/120-pyramid.md)**  
 
-### Continue with Extended Human Dynamics
+These chapters explain what cooperation *is* structurally and how stability depends on the Level Rule.
 
-Explore how human, political, and psychological forces distort or amplify cooperation.
+#### 2. Continue with Extended Human Dynamics
+Explore how context, psychology, and politics shape how cooperation is *experienced* in real systems.
 
-### Move to System Modes
-
-Learn how to apply the system depending on work stage:
-
+#### 3. Move to System Modes
+Learn how cooperation behaves over time and what type of work is appropriate in each mode:
 - **Setup** (design)  
-- **Stabilization** (diagnosis and repair)  
+- **Stabilization** (repair and calibration)  
 - **Growth** (optimization)  
-- **Conflict** (resolution)  
+- **Conflict** (realignment and safety)  
 - **Reset** (renewal)
+
+This path gives you a complete conceptual understanding of HCS before applying it.
+
+### Reading Path for Practitioners / Coaches
+
+If your goal is to **analyze, stabilize, or guide real cooperation**, start with the parts of HCS designed for practice.
+
+#### 1. Begin with Diagnostics  
+Start here — this is your primary instrument.
+- **[Diagnostic Workflow](400-diagnostics/410-diagnostic-workflow.md)**  
+  Shows how to move from *observation → structure → level → intervention*.
+- **[Diagnostic Dynamics](400-diagnostics/420-diagnostic-dynamics.md)**  
+  Adds the human, political, and psychological layers when structure alone is not enough.
+
+#### 2. Follow the workflow back into the Core Model (when prompted)
+Use the theory *only as needed*:
+- **Matrix** (to identify *which function* is strained)  
+- **Pyramid** (to identify *which level* is unstable)  
+
+The workflow will tell you when to consult these.
+
+#### 3. Use System Modes to choose **what kind of work is possible right now**
+Modes help you avoid applying the wrong intervention type:
+- Setup, Stabilization, Growth, Conflict, Reset
+
+#### 4. Consult Extended Human Dynamics only if dynamics feel “hot”
+When political or psychological fields distort cooperation, this section helps interpret patterns safely and precisely.
+
+#### 5. Finally, use the Practices Map as optional support
+Only after diagnosis is clear, pick practices that strengthen the functions you identified.
+
+---
+
+**In short:**  
+- **Learners**: read HCS top-down, from theory → dynamics → modes.  
+- **Practitioners**: start with **Diagnostics**, and let the workflow direct you to the required parts of the model.
 
 ## Positioning
 
