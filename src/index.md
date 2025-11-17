@@ -130,7 +130,6 @@ Each mode applies the Core Model differently depending on what the system needs
 1. **[Vision, Principles, and Beliefs](100-core-model/100-vision-principles-beliefs.md)**  
 2. **[The Matrix](100-core-model/110-matrix.md)**  
 3. **[The Pyramid](100-core-model/120-pyramid.md)**  
-4. **[The Level Rule](100-core-model/130-level-rule.md)**  
 
 ### Continue with Extended Human Dynamics
 
