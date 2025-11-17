@@ -24,11 +24,11 @@ HCS helps teams **see and repair the system**, not just the symptoms.
 
 There are two parallel paths organizations use to solve collaboration problems:
 
-### **1. The Path of Encapsulation**  
+### **The Path of Encapsulation**  
 Reducing friction by narrowing collaboration, separating responsibilities, and limiting interdependence.  
 Great for clear, predictable work — but brittle in complexity.
 
-### **2. The Path of Integration**  
+### **The Path of Integration**  
 Managing friction through shared meaning, aligned boundaries, and transparent decision-making.  
 Necessary whenever work is ambiguous, cross-functional, political, or fast-changing.
 
